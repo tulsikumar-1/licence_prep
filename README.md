@@ -2,8 +2,7 @@
 
 An offline, single-file study tool for the Italian **Patente A/B** driving theory exam. It turns the official true/false question listing into a trainer with sign images, answer explanations, and a data-driven breakdown of the wording tricks the exam uses.
 
-**Live version:** https://YOUR-USERNAME.github.io/patente/
-*(replace with your GitHub Pages URL once it is live)*
+**Live version:** https://tulsikumar-1.github.io/licence_prep/
 
 ---
 
@@ -48,7 +47,7 @@ No build step, no dependencies, no tracking. It is a single static HTML file.
 1. Create a public repository and upload `index.html`.
 2. Go to **Settings → Pages**.
 3. Set **Source** to **Deploy from a branch**, branch **main**, folder **/ (root)**, then **Save**.
-4. The site goes live at `https://YOUR-USERNAME.github.io/REPO-NAME/` within a minute or two.
+4. The site goes live at `https://tulsikumar-1.github.io/licence_prep/` within a minute or two.
 
 To update later, replace `index.html` and Pages redeploys automatically.
 
