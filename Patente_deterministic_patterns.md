@@ -67,7 +67,6 @@ Describing what a direction sign pre-announces (turn / continue toward a place) 
 | `unicamente` | 7 | Il segnale raffigurato vieta il transito unicamente ai veicoli a motore |
 | `solo nelle ore` | 6 | Il segnale raffigurato vale solo nelle ore diurne |
 | `diminuire la distanza di sicurezza` | 7 | In presenza del segnale raffigurato il conducente deve diminuire la distanza di  |
-| `è consentito proseguire` | 0 |  |
 
 The interactive console lists the **full set of 156 corpus-certain phrases** (searchable, under the "Sure things" tab). Many of those are tied to a sign image, so use them as "this exact wording was X" rather than as standalone rules.
 

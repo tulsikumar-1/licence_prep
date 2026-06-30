@@ -2,7 +2,7 @@
 
 Built from the official **Listato ministeriale A/B** (Neca, web version 27/02/2025) — the 337-page PDF you uploaded. Every statement in that listing is pre-classified by the Ministry as a **true** statement (*DOMANDE VERE*) or a **false** statement (*DOMANDE FALSE*). So the answers below are the listing's own labels, and the keyword percentages are exact counts over the whole corpus, not estimates.
 
-**Corpus:** 7,144 statements · **3,568 true** · **3,576 false** · 708 blocks · 31 scenario groups.
+**Corpus:** 7,144 statements · **3,574 true** · **3,570 false** · 708 blocks · 31 scenario groups.
 
 > The full per-question master list (all 7,144 statements, filterable by topic / answer / keyword) is in the companion Excel file. An interactive trainer + searchable browser is in the companion HTML console. This document is the printable revision layer on top of them.
 
@@ -20,12 +20,12 @@ Each real Patente B quiz item is a sentence you mark **V** or **F**. There is no
 
 | Italian word / phrase | English | Appears | True | False | % T | Signal |
 |---|---|--:|--:|--:|--:|---|
-| non | not | 835 | 402 | 433 | 48% | depends |
+| non | not | 834 | 403 | 431 | 48% | depends |
 | deve | must | 709 | 424 | 285 | 60% | depends |
-| può | may/can | 623 | 380 | 243 | 61% | depends |
+| può | may/can | 623 | 382 | 241 | 61% | depends |
 | velocità | speed | 502 | 285 | 217 | 57% | depends |
 | precedenza | right of way | 446 | 228 | 218 | 51% | depends |
-| quando | when | 364 | 187 | 177 | 51% | depends |
+| quando | when | 364 | 188 | 176 | 52% | depends |
 | carreggiata | carriageway | 353 | 195 | 158 | 55% | depends |
 | sosta | parking (standing) | 312 | 143 | 169 | 46% | depends |
 | bisogna | one must | 291 | 161 | 130 | 55% | depends |
@@ -33,7 +33,7 @@ Each real Patente B quiz item is a sentence you mark **V** or **F**. There is no
 | solo | only | 246 | 61 | 185 | 25% | **leans FALSE** |
 | corsia | lane | 245 | 124 | 121 | 51% | depends |
 | anche | also/even | 239 | 137 | 102 | 57% | depends |
-| sorpasso | overtaking | 215 | 110 | 105 | 51% | depends |
+| sorpasso | overtaking | 214 | 110 | 104 | 51% | depends |
 | possono | may/can (pl) | 210 | 98 | 112 | 47% | depends |
 | autostrad | motorway | 204 | 98 | 106 | 48% | depends |
 | durante | during | 180 | 91 | 89 | 51% | depends |
@@ -45,10 +45,10 @@ Each real Patente B quiz item is a sentence you mark **V** or **F**. There is no
 | strade extraurbane | extra-urban roads | 135 | 68 | 67 | 50% | depends |
 | obbligo | obligation | 133 | 58 | 75 | 44% | depends |
 | occorre | it is necessary | 129 | 66 | 63 | 51% | depends |
-| vietato | forbidden | 125 | 68 | 57 | 54% | depends |
+| vietato | forbidden | 123 | 68 | 55 | 55% | depends |
 | in corrispondenza | at (exactly at) | 120 | 70 | 50 | 58% | depends |
-| divieto | prohibition | 111 | 42 | 69 | 38% | depends |
-| tutti | all | 108 | 39 | 69 | 36% | depends |
+| divieto | prohibition | 109 | 42 | 67 | 39% | depends |
+| tutti | all | 108 | 40 | 68 | 37% | depends |
 | prima di | before | 107 | 71 | 36 | 66% | **leans TRUE** |
 | distanza di sicurezza | safety distance | 107 | 49 | 58 | 46% | depends |
 | è necessario | it is necessary | 104 | 63 | 41 | 61% | depends |
@@ -88,7 +88,7 @@ Each real Patente B quiz item is a sentence you mark **V** or **F**. There is no
 | entro | within | 15 | 10 | 5 | 67% | **leans TRUE** |
 | esclusivamente | exclusively | 14 | 1 | 13 | 7% | **leans FALSE** |
 | ghiaccio | ice | 14 | 10 | 4 | 71% | **leans TRUE** |
-| alcool | alcohol | 14 | 6 | 8 | 43% | depends |
+| alcool | alcohol | 14 | 7 | 7 | 50% | depends |
 | mai | never | 12 | 1 | 11 | 8% | **leans FALSE** |
 | attraversamento ciclabile | cycle crossing | 12 | 5 | 7 | 42% | depends |
 | fuori dai centri abitati | outside built-up areas | 9 | 3 | 6 | 33% | **leans FALSE** |
@@ -121,11 +121,11 @@ Each real Patente B quiz item is a sentence you mark **V** or **F**. There is no
 **Documents, belts, helmet, inspection are required.** Statements asserting a legal obligation to carry documents, wear belts/helmet, insure and inspect the vehicle are generally true.
 
 Worked examples from the listing (all labelled **VERO**):
-- In presenza del segnale raffigurato il conducente, salvo diverso ulteriore segnale, deve dare precedenza ai veicoli pro- venienti da destra
+- In presenza del segnale raffigurato il conducente, salvo diverso ulteriore segnale, deve dare precedenza ai veicoli pro­ venienti da destra
 - Il segnale raffigurato vieta la sosta sulle strade urbane dalle ore 8.00 alle ore 20.00, salvo diversa indicazione
 - Il marciapiede consente la sosta dei veicoli solo in presenza di apposite strisce di parcheggio
 - Il segnale raffigurato, se a fondo giallo, è usato in presenza di cantieri stradali
-- Il segnale (A), se abbinato con il pannello (B), preannuncia un tratto di strada sul quale, in particolari condizioni meteo- rologiche, è probabile la presenza di ghiaccio (FIG 917)
+- Il segnale (A), se abbinato con il pannello (B), preannuncia un tratto di strada sul quale, in particolari condizioni meteo­ rologiche, è probabile la presenza di ghiaccio (FIG 917)
 
 ---
 
@@ -183,36 +183,36 @@ Real contrast from the listing — overtaking near a hump (`dosso`):
 | # | Scenario | Questions | True | False | % T |
 |--:|---|--:|--:|--:|--:|
 | 1 | Signs: danger (warning) | 662 | 322 | 340 | 49% |
-| 2 | Causes of accidents (incl. alcohol, drugs, fatigue, weather) | 593 | 313 | 280 | 53% |
-| 3 | Signs: indication / information | 562 | 266 | 296 | 47% |
+| 2 | Causes of accidents (incl. alcohol, drugs, fatigue, weather) | 585 | 319 | 266 | 55% |
+| 3 | Signs: indication / information | 563 | 267 | 296 | 47% |
 | 4 | Signs: prohibition | 519 | 254 | 265 | 49% |
 | 5 | Priority rules & processions | 492 | 254 | 238 | 52% |
-| 6 | Signs: obligation | 457 | 213 | 244 | 47% |
+| 6 | Signs: obligation | 446 | 207 | 239 | 46% |
 | 7 | Supplementary panels | 273 | 130 | 143 | 48% |
 | 8 | Stopping, halting & parking | 268 | 152 | 116 | 57% |
-| 9 | Traffic lights & police signals | 255 | 119 | 136 | 47% |
-| 10 | Road markings (horizontal signs) | 253 | 128 | 125 | 51% |
-| 11 | Documents, officials & plates | 251 | 123 | 128 | 49% |
+| 9 | Road markings (horizontal signs) | 260 | 131 | 129 | 50% |
+| 10 | Traffic lights & police signals | 257 | 120 | 137 | 47% |
+| 11 | Documents, officials & plates | 254 | 124 | 130 | 49% |
 | 12 | Signs: right-of-way / priority | 226 | 110 | 116 | 49% |
 | 13 | Road & traffic definitions | 203 | 102 | 101 | 50% |
-| 14 | Carrying people, loads, panels & towing | 197 | 101 | 96 | 51% |
-| 15 | Signs: temporary & complementary | 188 | 88 | 100 | 47% |
+| 14 | Carrying people, loads, panels & towing | 193 | 100 | 93 | 52% |
+| 15 | Signs: temporary & complementary | 189 | 89 | 100 | 47% |
 | 16 | Overtaking | 156 | 82 | 74 | 53% |
-| 17 | Seat belts, airbags & helmets | 147 | 78 | 69 | 53% |
-| 18 | Lane position, turning & lane change | 143 | 69 | 74 | 48% |
-| 19 | Tyres, grip & stability | 135 | 68 | 67 | 50% |
-| 20 | Speed limits | 130 | 73 | 57 | 56% |
-| 21 | Braking & safety distance | 123 | 58 | 65 | 47% |
-| 22 | Pollution & eco-driving | 113 | 66 | 47 | 58% |
-| 23 | Liability & insurance | 112 | 49 | 63 | 44% |
-| 24 | First aid | 108 | 55 | 53 | 51% |
+| 17 | Lane position, turning & lane change | 143 | 69 | 74 | 48% |
+| 18 | Seat belts, airbags & helmets | 134 | 69 | 65 | 51% |
+| 19 | Tyres, grip & stability | 134 | 68 | 66 | 51% |
+| 20 | Braking & safety distance | 129 | 62 | 67 | 48% |
+| 21 | Speed limits | 124 | 69 | 55 | 56% |
+| 22 | Liability & insurance | 120 | 50 | 70 | 42% |
+| 23 | Vehicle mechanical elements | 119 | 63 | 56 | 53% |
+| 24 | Pollution & eco-driving | 109 | 64 | 45 | 59% |
 | 25 | Vehicle classification | 106 | 48 | 58 | 45% |
-| 26 | Vehicle lights & signalling devices | 101 | 55 | 46 | 54% |
-| 27 | Vehicle mechanical elements | 91 | 47 | 44 | 52% |
-| 28 | Speed regulation (adapting speed) | 89 | 53 | 36 | 60% |
-| 29 | Warning lights & symbols | 71 | 33 | 38 | 46% |
-| 30 | Motorway driving | 64 | 33 | 31 | 52% |
-| 31 | Stopped-vehicle warning (triangle) & obstruction | 56 | 26 | 30 | 46% |
+| 26 | Vehicle lights & signalling devices | 97 | 53 | 44 | 55% |
+| 27 | Speed regulation (adapting speed) | 96 | 56 | 40 | 58% |
+| 28 | First aid | 96 | 48 | 48 | 50% |
+| 29 | Warning lights & symbols | 81 | 38 | 43 | 47% |
+| 30 | Motorway driving | 57 | 29 | 28 | 51% |
+| 31 | Stopped-vehicle warning (triangle) & obstruction | 53 | 25 | 28 | 47% |
 
 The five biggest areas — danger signs, causes of accidents, indication signs, prohibition signs, and priority rules — hold roughly 40% of all questions. Prioritise them.
 
